@@ -1,0 +1,17 @@
+{
+  "name": "HO MI SLEEPING",
+  "short_name": "Mi-Trance",
+  "description": "Neural Relaxation Engine by MiTV Network",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#8e44ad",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/4RVBbN9X/IMG-20260223-155600.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
